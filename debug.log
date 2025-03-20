@@ -1,0 +1,808 @@
+INFO 2025-03-14 21:21:52,570 autoreload Watching for file changes with StatReloader
+INFO 2025-03-14 21:22:31,802 autoreload C:\Users\Hamza\Desktop\trip-logger-app\trips\views.py changed, reloading.
+INFO 2025-03-14 21:22:32,559 autoreload Watching for file changes with StatReloader
+INFO 2025-03-14 21:22:37,057 autoreload C:\Users\Hamza\Desktop\trip-logger-app\trips\views.py changed, reloading.
+INFO 2025-03-14 21:22:37,795 autoreload Watching for file changes with StatReloader
+INFO 2025-03-14 21:22:39,132 autoreload C:\Users\Hamza\Desktop\trip-logger-app\trips\views.py changed, reloading.
+INFO 2025-03-14 21:22:39,823 autoreload Watching for file changes with StatReloader
+INFO 2025-03-14 21:22:42,878 autoreload C:\Users\Hamza\Desktop\trip-logger-app\trips\views.py changed, reloading.
+INFO 2025-03-14 21:22:43,652 autoreload Watching for file changes with StatReloader
+INFO 2025-03-14 21:23:44,568 autoreload C:\Users\Hamza\Desktop\trip-logger-app\trips\views.py changed, reloading.
+INFO 2025-03-14 21:23:45,324 autoreload Watching for file changes with StatReloader
+INFO 2025-03-14 21:24:32,742 autoreload C:\Users\Hamza\Desktop\trip-logger-app\trips\views.py changed, reloading.
+INFO 2025-03-14 21:24:33,476 autoreload Watching for file changes with StatReloader
+INFO 2025-03-14 21:26:48,038 autoreload C:\Users\Hamza\Desktop\trip-logger-app\trips\views.py changed, reloading.
+INFO 2025-03-14 21:26:49,059 autoreload Watching for file changes with StatReloader
+INFO 2025-03-14 21:27:06,208 autoreload Watching for file changes with StatReloader
+DEBUG 2025-03-14 21:27:19,955 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Eiffel+Tower%2C+Paris&format=json&limit=1
+ERROR 2025-03-14 21:27:21,119 views Error geocoding location Eiffel Tower, Paris: Service timed out
+DEBUG 2025-03-14 21:27:21,121 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Louvre+Museum%2C+Paris&format=json&limit=1
+DEBUG 2025-03-14 21:27:21,260 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Eiffel+Tower%2C+Paris&format=json&limit=1
+DEBUG 2025-03-14 21:27:21,730 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Louvre+Museum%2C+Paris&format=json&limit=1
+DEBUG 2025-03-14 21:27:22,726 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Notre+Dame%2C+Paris&format=json&limit=1
+ERROR 2025-03-14 21:27:22,887 views Error geocoding location Louvre Museum, Paris: Service timed out
+DEBUG 2025-03-14 21:27:22,888 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Notre+Dame%2C+Paris&format=json&limit=1
+ERROR 2025-03-14 21:27:23,882 views Error geocoding location Notre Dame, Paris: Service timed out
+ERROR 2025-03-14 21:27:24,054 views Error geocoding location Notre Dame, Paris: Service timed out
+INFO 2025-03-14 21:31:27,881 autoreload C:\Users\Hamza\Desktop\trip-logger-app\trips\views.py changed, reloading.
+INFO 2025-03-14 21:31:28,673 autoreload Watching for file changes with StatReloader
+INFO 2025-03-14 21:31:54,645 autoreload C:\Users\Hamza\Desktop\trip-logger-app\trips\views.py changed, reloading.
+INFO 2025-03-14 21:31:55,475 autoreload Watching for file changes with StatReloader
+INFO 2025-03-14 21:32:44,312 autoreload C:\Users\Hamza\Desktop\trip-logger-app\trips\views.py changed, reloading.
+INFO 2025-03-14 21:32:45,109 autoreload Watching for file changes with StatReloader
+INFO 2025-03-14 21:33:02,524 views Geocoding attempt 1 for: Eiffel Tower, Paris
+DEBUG 2025-03-14 21:33:02,525 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Eiffel+Tower%2C+Paris&format=json&limit=1
+INFO 2025-03-14 21:33:07,743 views Successfully geocoded Eiffel Tower, Paris: (48.8582599, 2.2945006358633115)
+INFO 2025-03-14 21:33:07,744 views Geocoding attempt 1 for: Louvre Museum, Paris
+DEBUG 2025-03-14 21:33:07,745 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Louvre+Museum%2C+Paris&format=json&limit=1
+INFO 2025-03-14 21:33:10,321 views Successfully geocoded Louvre Museum, Paris: (48.8611473, 2.33802768704666)
+INFO 2025-03-14 21:33:10,323 views Geocoding attempt 1 for: Notre Dame, Paris
+DEBUG 2025-03-14 21:33:10,324 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Notre+Dame%2C+Paris&format=json&limit=1
+INFO 2025-03-14 21:33:11,323 views Successfully geocoded Notre Dame, Paris: (48.85293705, 2.3500501225000026)
+INFO 2025-03-14 21:37:07,588 views Geocoding attempt 1 for: ariana
+DEBUG 2025-03-14 21:37:07,588 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=ariana&format=json&limit=1
+INFO 2025-03-14 21:37:07,914 views Successfully geocoded ariana: (36.968573500000005, 10.121985506329507)
+INFO 2025-03-14 21:37:07,915 views Geocoding attempt 1 for: ariana
+DEBUG 2025-03-14 21:37:07,916 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=ariana&format=json&limit=1
+INFO 2025-03-14 21:37:08,891 views Successfully geocoded ariana: (36.968573500000005, 10.121985506329507)
+INFO 2025-03-14 21:37:08,891 views Geocoding attempt 1 for: ariana
+DEBUG 2025-03-14 21:37:08,892 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=ariana&format=json&limit=1
+INFO 2025-03-14 21:37:09,926 views Successfully geocoded ariana: (36.968573500000005, 10.121985506329507)
+INFO 2025-03-14 21:39:03,798 views Geocoding attempt 1 for: ariana ,tunis
+DEBUG 2025-03-14 21:39:03,799 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=ariana+%2Ctunis&format=json&limit=1
+INFO 2025-03-14 21:39:05,761 views Geocoding attempt 1 for: ariana ,tunis
+DEBUG 2025-03-14 21:39:05,761 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=ariana+%2Ctunis&format=json&limit=1
+INFO 2025-03-14 21:39:08,635 views Successfully geocoded ariana ,tunis: (36.968573500000005, 10.121985506329507)
+INFO 2025-03-14 21:39:08,636 views Geocoding attempt 1 for: ariana ,tunis
+DEBUG 2025-03-14 21:39:08,637 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=ariana+%2Ctunis&format=json&limit=1
+INFO 2025-03-14 21:39:10,632 views Successfully geocoded ariana ,tunis: (36.968573500000005, 10.121985506329507)
+INFO 2025-03-14 21:39:10,632 views Geocoding attempt 1 for: ariana ,tunis
+DEBUG 2025-03-14 21:39:10,633 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=ariana+%2Ctunis&format=json&limit=1
+INFO 2025-03-14 21:39:13,213 views Successfully geocoded ariana ,tunis: (36.968573500000005, 10.121985506329507)
+INFO 2025-03-14 21:39:13,215 views Geocoding attempt 1 for: ariana ,tunis
+DEBUG 2025-03-14 21:39:13,217 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=ariana+%2Ctunis&format=json&limit=1
+INFO 2025-03-14 21:39:14,184 views Successfully geocoded ariana ,tunis: (36.968573500000005, 10.121985506329507)
+INFO 2025-03-14 21:39:15,267 views Successfully geocoded ariana ,tunis: (36.968573500000005, 10.121985506329507)
+INFO 2025-03-14 21:39:15,268 views Geocoding attempt 1 for: ariana ,tunis
+DEBUG 2025-03-14 21:39:15,268 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=ariana+%2Ctunis&format=json&limit=1
+INFO 2025-03-14 21:39:16,249 views Successfully geocoded ariana ,tunis: (36.968573500000005, 10.121985506329507)
+INFO 2025-03-14 21:43:55,557 views Geocoding attempt 1 for: Eiffel Tower, Paris
+DEBUG 2025-03-14 21:43:55,558 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Eiffel+Tower%2C+Paris&format=json&limit=1
+INFO 2025-03-14 21:44:00,530 views Successfully geocoded Eiffel Tower, Paris: (48.8582599, 2.2945006358633115)
+INFO 2025-03-14 21:44:00,531 views Geocoding attempt 1 for: Louvre Museum, Paris
+DEBUG 2025-03-14 21:44:00,531 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Louvre+Museum%2C+Paris&format=json&limit=1
+INFO 2025-03-14 21:44:05,432 views Successfully geocoded Louvre Museum, Paris: (48.8611473, 2.33802768704666)
+INFO 2025-03-14 21:44:05,433 views Geocoding attempt 1 for: Notre Dame, Paris
+DEBUG 2025-03-14 21:44:05,433 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Notre+Dame%2C+Paris&format=json&limit=1
+INFO 2025-03-14 21:44:07,287 views Successfully geocoded Notre Dame, Paris: (48.85293705, 2.3500501225000026)
+INFO 2025-03-14 21:44:10,444 autoreload Watching for file changes with StatReloader
+INFO 2025-03-14 21:44:22,837 views Geocoding attempt 1 for: Eiffel Tower, Paris
+DEBUG 2025-03-14 21:44:22,838 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Eiffel+Tower%2C+Paris&format=json&limit=1
+INFO 2025-03-14 21:44:23,142 views Successfully geocoded Eiffel Tower, Paris: (48.8582599, 2.2945006358633115)
+INFO 2025-03-14 21:44:23,143 views Geocoding attempt 1 for: Louvre Museum, Paris
+DEBUG 2025-03-14 21:44:23,143 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Louvre+Museum%2C+Paris&format=json&limit=1
+INFO 2025-03-14 21:44:24,131 views Successfully geocoded Louvre Museum, Paris: (48.8611473, 2.33802768704666)
+INFO 2025-03-14 21:44:24,132 views Geocoding attempt 1 for: Notre Dame, Paris
+DEBUG 2025-03-14 21:44:24,132 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Notre+Dame%2C+Paris&format=json&limit=1
+INFO 2025-03-14 21:44:25,145 views Successfully geocoded Notre Dame, Paris: (48.85293705, 2.3500501225000026)
+INFO 2025-03-15 11:05:21,952 autoreload Watching for file changes with StatReloader
+INFO 2025-03-15 11:05:24,997 views Geocoding attempt 1 for: Eiffel Tower, Paris
+DEBUG 2025-03-15 11:05:24,999 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Eiffel+Tower%2C+Paris&format=json&limit=1
+INFO 2025-03-15 11:05:25,341 views Successfully geocoded Eiffel Tower, Paris: (48.8582599, 2.2945006358633115)
+INFO 2025-03-15 11:05:25,343 views Geocoding attempt 1 for: Louvre Museum, Paris
+DEBUG 2025-03-15 11:05:25,345 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Louvre+Museum%2C+Paris&format=json&limit=1
+INFO 2025-03-15 11:05:26,327 views Successfully geocoded Louvre Museum, Paris: (48.8611473, 2.33802768704666)
+INFO 2025-03-15 11:05:26,328 views Geocoding attempt 1 for: Notre Dame, Paris
+DEBUG 2025-03-15 11:05:26,329 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Notre+Dame%2C+Paris&format=json&limit=1
+INFO 2025-03-15 11:05:27,354 views Successfully geocoded Notre Dame, Paris: (48.85293705, 2.3500501225000026)
+INFO 2025-03-15 11:52:44,705 views Geocoding attempt 1 for: Eiffel Tower, Paris
+DEBUG 2025-03-15 11:52:44,705 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Eiffel+Tower%2C+Paris&format=json&limit=1
+INFO 2025-03-15 11:52:44,974 views Successfully geocoded Eiffel Tower, Paris: (48.8582599, 2.2945006358633115)
+INFO 2025-03-15 11:52:44,976 views Geocoding attempt 1 for: Louvre Museum, Paris
+DEBUG 2025-03-15 11:52:44,978 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Louvre+Museum%2C+Paris&format=json&limit=1
+INFO 2025-03-15 11:52:45,968 views Successfully geocoded Louvre Museum, Paris: (48.8611473, 2.33802768704666)
+INFO 2025-03-15 11:52:45,968 views Geocoding attempt 1 for: Notre Dame, Paris
+DEBUG 2025-03-15 11:52:45,969 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Notre+Dame%2C+Paris&format=json&limit=1
+INFO 2025-03-15 11:52:46,967 views Successfully geocoded Notre Dame, Paris: (48.85293705, 2.3500501225000026)
+INFO 2025-03-15 11:56:43,657 views Geocoding attempt 1 for: Eiffel Tower, Paris
+DEBUG 2025-03-15 11:56:43,658 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Eiffel+Tower%2C+Paris&format=json&limit=1
+INFO 2025-03-15 11:56:43,940 views Successfully geocoded Eiffel Tower, Paris: (48.8582599, 2.2945006358633115)
+INFO 2025-03-15 11:56:43,941 views Geocoding attempt 1 for: Louvre Museum, Paris
+DEBUG 2025-03-15 11:56:43,941 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Louvre+Museum%2C+Paris&format=json&limit=1
+INFO 2025-03-15 11:56:44,922 views Successfully geocoded Louvre Museum, Paris: (48.8611473, 2.33802768704666)
+INFO 2025-03-15 11:56:44,924 views Geocoding attempt 1 for: Notre Dame, Paris
+DEBUG 2025-03-15 11:56:44,926 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Notre+Dame%2C+Paris&format=json&limit=1
+INFO 2025-03-15 11:56:45,951 views Successfully geocoded Notre Dame, Paris: (48.85293705, 2.3500501225000026)
+INFO 2025-03-15 11:57:21,144 views Geocoding attempt 1 for: Eiffel Tower, Paris
+DEBUG 2025-03-15 11:57:21,144 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Eiffel+Tower%2C+Paris&format=json&limit=1
+INFO 2025-03-15 11:57:21,379 views Successfully geocoded Eiffel Tower, Paris: (48.8582599, 2.2945006358633115)
+INFO 2025-03-15 11:57:21,380 views Geocoding attempt 1 for: Louvre Museum, Paris
+DEBUG 2025-03-15 11:57:21,380 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Louvre+Museum%2C+Paris&format=json&limit=1
+INFO 2025-03-15 11:57:22,366 views Successfully geocoded Louvre Museum, Paris: (48.8611473, 2.33802768704666)
+INFO 2025-03-15 11:57:22,369 views Geocoding attempt 1 for: Notre Dame, Paris
+DEBUG 2025-03-15 11:57:22,370 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Notre+Dame%2C+Paris&format=json&limit=1
+INFO 2025-03-15 11:57:23,370 views Successfully geocoded Notre Dame, Paris: (48.85293705, 2.3500501225000026)
+WARNING 2025-03-15 11:58:45,634 log Bad Request: /api/trips/
+INFO 2025-03-15 12:01:19,355 views Geocoding attempt 1 for: Eiffel Tower, Paris
+DEBUG 2025-03-15 12:01:19,355 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Eiffel+Tower%2C+Paris&format=json&limit=1
+INFO 2025-03-15 12:01:19,601 views Successfully geocoded Eiffel Tower, Paris: (48.8582599, 2.2945006358633115)
+INFO 2025-03-15 12:01:19,602 views Geocoding attempt 1 for: Louvre Museum, Paris
+DEBUG 2025-03-15 12:01:19,603 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Louvre+Museum%2C+Paris&format=json&limit=1
+INFO 2025-03-15 12:01:20,651 views Successfully geocoded Louvre Museum, Paris: (48.8611473, 2.33802768704666)
+INFO 2025-03-15 12:01:20,653 views Geocoding attempt 1 for: Notre Dame, Paris
+DEBUG 2025-03-15 12:01:20,654 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Notre+Dame%2C+Paris&format=json&limit=1
+INFO 2025-03-15 12:01:21,597 views Successfully geocoded Notre Dame, Paris: (48.85293705, 2.3500501225000026)
+INFO 2025-03-15 12:10:39,660 views Geocoding attempt 1 for: Eiffel Tower, Paris
+DEBUG 2025-03-15 12:10:39,661 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Eiffel+Tower%2C+Paris&format=json&limit=1
+INFO 2025-03-15 12:10:39,975 views Successfully geocoded Eiffel Tower, Paris: (48.8582599, 2.2945006358633115)
+INFO 2025-03-15 12:10:39,994 views Geocoding attempt 1 for: Louvre Museum, Paris
+DEBUG 2025-03-15 12:10:39,995 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Louvre+Museum%2C+Paris&format=json&limit=1
+INFO 2025-03-15 12:10:40,946 views Successfully geocoded Louvre Museum, Paris: (48.8611473, 2.33802768704666)
+INFO 2025-03-15 12:10:40,948 views Geocoding attempt 1 for: Notre Dame, Paris
+DEBUG 2025-03-15 12:10:40,949 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Notre+Dame%2C+Paris&format=json&limit=1
+INFO 2025-03-15 12:10:42,003 views Successfully geocoded Notre Dame, Paris: (48.85293705, 2.3500501225000026)
+WARNING 2025-03-15 12:10:42,978 log Not Found: /api/trips/latest/
+WARNING 2025-03-15 12:10:43,012 log Not Found: /api/trips/latest/
+INFO 2025-03-15 12:14:35,722 views Geocoding attempt 1 for: Eiffel Tower, Paris
+DEBUG 2025-03-15 12:14:35,723 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Eiffel+Tower%2C+Paris&format=json&limit=1
+INFO 2025-03-15 12:14:35,977 views Successfully geocoded Eiffel Tower, Paris: (48.8582599, 2.2945006358633115)
+INFO 2025-03-15 12:14:35,979 views Geocoding attempt 1 for: Louvre Museum, Paris
+DEBUG 2025-03-15 12:14:35,980 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Louvre+Museum%2C+Paris&format=json&limit=1
+INFO 2025-03-15 12:14:36,980 views Successfully geocoded Louvre Museum, Paris: (48.8611473, 2.33802768704666)
+INFO 2025-03-15 12:14:36,982 views Geocoding attempt 1 for: Notre Dame, Paris
+DEBUG 2025-03-15 12:14:36,983 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Notre+Dame%2C+Paris&format=json&limit=1
+INFO 2025-03-15 12:14:37,982 views Successfully geocoded Notre Dame, Paris: (48.85293705, 2.3500501225000026)
+WARNING 2025-03-15 12:15:12,567 log Bad Request: /api/trips/
+WARNING 2025-03-15 12:15:20,333 log Bad Request: /api/trips/
+INFO 2025-03-15 12:15:26,488 views Geocoding attempt 1 for: Eiffel Tower, Paris
+DEBUG 2025-03-15 12:15:26,489 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Eiffel+Tower%2C+Paris&format=json&limit=1
+INFO 2025-03-15 12:15:26,820 views Successfully geocoded Eiffel Tower, Paris: (48.8582599, 2.2945006358633115)
+INFO 2025-03-15 12:15:26,822 views Geocoding attempt 1 for: Louvre Museum, Paris
+DEBUG 2025-03-15 12:15:26,822 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Louvre+Museum%2C+Paris&format=json&limit=1
+INFO 2025-03-15 12:15:27,802 views Successfully geocoded Louvre Museum, Paris: (48.8611473, 2.33802768704666)
+INFO 2025-03-15 12:15:27,804 views Geocoding attempt 1 for: Notre Dame, Paris
+DEBUG 2025-03-15 12:15:27,806 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Notre+Dame%2C+Paris&format=json&limit=1
+INFO 2025-03-15 12:15:28,814 views Successfully geocoded Notre Dame, Paris: (48.85293705, 2.3500501225000026)
+INFO 2025-03-15 12:53:49,207 autoreload Watching for file changes with StatReloader
+INFO 2025-03-15 13:12:16,086 views Geocoding attempt 1 for: Eiffel Tower, Paris
+DEBUG 2025-03-15 13:12:16,087 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Eiffel+Tower%2C+Paris&format=json&limit=1
+INFO 2025-03-15 13:12:16,415 views Successfully geocoded Eiffel Tower, Paris: (48.8582599, 2.2945006358633115)
+INFO 2025-03-15 13:12:16,417 views Geocoding attempt 1 for: Louvre Museum, Paris
+DEBUG 2025-03-15 13:12:16,418 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Louvre+Museum%2C+Paris&format=json&limit=1
+INFO 2025-03-15 13:12:17,430 views Successfully geocoded Louvre Museum, Paris: (48.8611473, 2.33802768704666)
+INFO 2025-03-15 13:12:17,432 views Geocoding attempt 1 for: Notre Dame, Paris
+DEBUG 2025-03-15 13:12:17,433 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Notre+Dame%2C+Paris&format=json&limit=1
+INFO 2025-03-15 13:12:18,464 views Successfully geocoded Notre Dame, Paris: (48.85293705, 2.3500501225000026)
+INFO 2025-03-15 13:19:10,991 autoreload C:\Users\Hamza\Desktop\trip-logger-app\trips\serializers.py changed, reloading.
+INFO 2025-03-15 13:19:11,757 autoreload Watching for file changes with StatReloader
+INFO 2025-03-15 13:20:35,291 views Geocoding attempt 1 for: Eiffel Tower, Paris
+DEBUG 2025-03-15 13:20:35,291 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Eiffel+Tower%2C+Paris&format=json&limit=1
+INFO 2025-03-15 13:20:35,577 views Successfully geocoded Eiffel Tower, Paris: (48.8582599, 2.2945006358633115)
+INFO 2025-03-15 13:20:35,578 views Geocoding attempt 1 for: Louvre Museum, Paris
+DEBUG 2025-03-15 13:20:35,579 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Louvre+Museum%2C+Paris&format=json&limit=1
+INFO 2025-03-15 13:20:36,557 views Successfully geocoded Louvre Museum, Paris: (48.8611473, 2.33802768704666)
+INFO 2025-03-15 13:20:36,558 views Geocoding attempt 1 for: Notre Dame, Paris
+DEBUG 2025-03-15 13:20:36,559 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Notre+Dame%2C+Paris&format=json&limit=1
+INFO 2025-03-15 13:20:37,560 views Successfully geocoded Notre Dame, Paris: (48.85293705, 2.3500501225000026)
+INFO 2025-03-15 13:27:14,109 autoreload C:\Users\Hamza\Desktop\trip-logger-app\trips\serializers.py changed, reloading.
+INFO 2025-03-15 13:27:14,903 autoreload Watching for file changes with StatReloader
+INFO 2025-03-15 13:29:32,644 autoreload C:\Users\Hamza\Desktop\trip-logger-app\trips\urls.py changed, reloading.
+INFO 2025-03-15 13:29:33,355 autoreload Watching for file changes with StatReloader
+INFO 2025-03-15 13:29:43,742 autoreload C:\Users\Hamza\Desktop\trip-logger-app\trips\serializers.py changed, reloading.
+INFO 2025-03-15 13:29:44,440 autoreload Watching for file changes with StatReloader
+INFO 2025-03-15 13:30:02,576 autoreload Watching for file changes with StatReloader
+WARNING 2025-03-15 13:30:12,690 log Not Found: /api/trips/1/
+WARNING 2025-03-15 13:30:18,802 log Not Found: /api/trips/
+WARNING 2025-03-15 13:30:18,815 log Not Found: /api/trips/
+WARNING 2025-03-15 13:31:09,885 log Not Found: /api/trips/
+INFO 2025-03-15 13:31:29,939 autoreload C:\Users\Hamza\Desktop\trip-logger-app\trips\urls.py changed, reloading.
+INFO 2025-03-15 13:31:30,663 autoreload Watching for file changes with StatReloader
+INFO 2025-03-15 13:31:37,713 autoreload C:\Users\Hamza\Desktop\trip-logger-app\trips\serializers.py changed, reloading.
+INFO 2025-03-15 13:31:38,543 autoreload Watching for file changes with StatReloader
+INFO 2025-03-15 13:31:49,742 autoreload C:\Users\Hamza\Desktop\trip-logger-app\trips\urls.py changed, reloading.
+INFO 2025-03-15 13:31:50,533 autoreload Watching for file changes with StatReloader
+WARNING 2025-03-15 13:32:02,695 log Not Found: /api/trips/
+INFO 2025-03-15 13:32:14,917 autoreload C:\Users\Hamza\Desktop\trip-logger-app\trips\views.py changed, reloading.
+INFO 2025-03-15 13:32:15,623 autoreload Watching for file changes with StatReloader
+INFO 2025-03-15 13:32:23,410 autoreload C:\Users\Hamza\Desktop\trip-logger-app\trips\views.py changed, reloading.
+INFO 2025-03-15 13:32:24,167 autoreload Watching for file changes with StatReloader
+WARNING 2025-03-15 13:32:27,558 log Not Found: /api/trips/
+INFO 2025-03-15 13:32:44,256 autoreload C:\Users\Hamza\Desktop\trip-logger-app\trips\views.py changed, reloading.
+INFO 2025-03-15 13:32:45,076 autoreload Watching for file changes with StatReloader
+INFO 2025-03-15 13:32:51,030 autoreload Watching for file changes with StatReloader
+WARNING 2025-03-15 13:32:53,931 log Not Found: /api/trips/
+INFO 2025-03-15 13:33:06,942 autoreload C:\Users\Hamza\Desktop\trip-logger-app\trips\serializers.py changed, reloading.
+INFO 2025-03-15 13:33:07,675 autoreload Watching for file changes with StatReloader
+INFO 2025-03-15 13:33:16,763 autoreload C:\Users\Hamza\Desktop\trip-logger-app\trips\urls.py changed, reloading.
+INFO 2025-03-15 13:33:17,479 autoreload Watching for file changes with StatReloader
+DEBUG 2025-03-15 13:33:26,862 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Eiffel+Tower%2C+Paris&format=json&limit=1
+DEBUG 2025-03-15 13:33:27,227 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Louvre+Museum%2C+Paris&format=json&limit=1
+DEBUG 2025-03-15 13:33:28,213 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Notre+Dame%2C+Paris&format=json&limit=1
+WARNING 2025-03-15 13:33:39,692 log Not Found: /api/trips/undefined/
+WARNING 2025-03-15 13:33:39,700 log Not Found: /api/trips/undefined/
+DEBUG 2025-03-15 13:34:28,526 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Eiffel+Tower%2C+Paris&format=json&limit=1
+DEBUG 2025-03-15 13:34:28,775 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Louvre+Museum%2C+Paris&format=json&limit=1
+DEBUG 2025-03-15 13:34:29,752 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Notre+Dame%2C+Paris&format=json&limit=1
+INFO 2025-03-15 13:37:40,493 autoreload C:\Users\Hamza\Desktop\trip-logger-app\trips\serializers.py changed, reloading.
+INFO 2025-03-15 13:37:41,286 autoreload Watching for file changes with StatReloader
+INFO 2025-03-15 13:37:49,995 autoreload Watching for file changes with StatReloader
+INFO 2025-03-15 13:37:59,419 autoreload Watching for file changes with StatReloader
+DEBUG 2025-03-15 14:25:52,582 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Eiffel+Tower%2C+Paris&format=json&limit=1
+DEBUG 2025-03-15 14:25:53,256 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Louvre+Museum%2C+Paris&format=json&limit=1
+DEBUG 2025-03-15 14:25:54,238 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Notre+Dame%2C+Paris&format=json&limit=1
+DEBUG 2025-03-15 16:16:46,848 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Eiffel+Tower%2C+Paris&format=json&limit=1
+DEBUG 2025-03-15 16:16:47,219 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Louvre+Museum%2C+Paris&format=json&limit=1
+DEBUG 2025-03-15 16:16:48,233 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Notre+Dame%2C+Paris&format=json&limit=1
+DEBUG 2025-03-15 16:24:09,456 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Avenue+Habib+Bourguiba%2C+1000+Tunis%2C+Tunisia&format=json&limit=1
+DEBUG 2025-03-15 16:24:09,749 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=25+Rue+du+Lac%2C+1053+Tunis%2C+Tunisia&format=json&limit=1
+ERROR 2025-03-15 16:24:10,888 views Error geocoding location 25 Rue du Lac, 1053 Tunis, Tunisia: Service timed out
+DEBUG 2025-03-15 16:24:10,889 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=112+Avenue+de+la+R%C3%A9publique%2C+1073+Tunis%2C+Tunisia&format=json&limit=1
+ERROR 2025-03-15 16:24:12,026 views Error geocoding location 112 Avenue de la République, 1073 Tunis, Tunisia: Service timed out
+DEBUG 2025-03-15 16:47:06,950 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Eiffel+Tower%2C+Paris&format=json&limit=1
+DEBUG 2025-03-15 16:47:07,273 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Louvre+Museum%2C+Paris&format=json&limit=1
+DEBUG 2025-03-15 16:47:08,266 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Notre+Dame%2C+Paris&format=json&limit=1
+ERROR 2025-03-15 16:47:09,280 views Error geocoding location Notre Dame, Paris: Service timed out
+DEBUG 2025-03-15 16:58:02,655 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Eiffel+Tower%2C+Paris&format=json&limit=1
+DEBUG 2025-03-15 16:58:02,913 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Louvre+Museum%2C+Paris&format=json&limit=1
+DEBUG 2025-03-15 16:58:03,907 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Notre+Dame%2C+Paris&format=json&limit=1
+DEBUG 2025-03-15 16:58:04,316 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Eiffel+Tower%2C+Paris&format=json&limit=1
+ERROR 2025-03-15 16:58:05,473 views Error geocoding location Eiffel Tower, Paris: Service timed out
+DEBUG 2025-03-15 16:58:05,473 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Louvre+Museum%2C+Paris&format=json&limit=1
+ERROR 2025-03-15 16:58:06,611 views Error geocoding location Louvre Museum, Paris: Service timed out
+DEBUG 2025-03-15 16:58:06,613 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Notre+Dame%2C+Paris&format=json&limit=1
+ERROR 2025-03-15 16:58:07,772 views Error geocoding location Notre Dame, Paris: Service timed out
+INFO 2025-03-15 19:45:39,848 autoreload Watching for file changes with StatReloader
+DEBUG 2025-03-15 19:46:54,742 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Eiffel+Tower%2C+Paris&format=json&limit=1
+DEBUG 2025-03-15 19:46:55,265 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Louvre+Museum%2C+Paris&format=json&limit=1
+DEBUG 2025-03-15 19:46:56,265 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Notre+Dame%2C+Paris&format=json&limit=1
+ERROR 2025-03-15 19:46:57,532 views Error geocoding location Notre Dame, Paris: Service timed out
+DEBUG 2025-03-15 19:51:33,181 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Eiffel+Tower%2C+Paris&format=json&limit=1
+DEBUG 2025-03-15 19:51:33,528 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Louvre+Museum%2C+Paris&format=json&limit=1
+DEBUG 2025-03-15 19:51:34,513 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Notre+Dame%2C+Paris&format=json&limit=1
+DEBUG 2025-03-15 20:33:56,878 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Eiffel+Tower%2C+Paris&format=json&limit=1
+ERROR 2025-03-15 20:33:58,145 views Error geocoding location Eiffel Tower, Paris: Service timed out
+DEBUG 2025-03-15 20:33:58,147 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Louvre+Museum%2C+Paris&format=json&limit=1
+ERROR 2025-03-15 20:33:59,269 views Error geocoding location Louvre Museum, Paris: Service timed out
+DEBUG 2025-03-15 20:33:59,271 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Notre+Dame%2C+Paris&format=json&limit=1
+ERROR 2025-03-15 20:34:00,356 views Error geocoding location Notre Dame, Paris: Service timed out
+INFO 2025-03-15 22:26:43,471 autoreload Watching for file changes with StatReloader
+DEBUG 2025-03-15 22:26:47,948 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Eiffel+Tower%2C+Paris&format=json&limit=1
+ERROR 2025-03-15 22:26:49,155 views Error geocoding location Eiffel Tower, Paris: Service timed out
+DEBUG 2025-03-15 22:26:49,156 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Louvre+Museum%2C+Paris&format=json&limit=1
+ERROR 2025-03-15 22:26:50,260 views Error geocoding location Louvre Museum, Paris: Service timed out
+DEBUG 2025-03-15 22:26:50,261 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Notre+Dame%2C+Paris&format=json&limit=1
+INFO 2025-03-15 23:01:21,400 autoreload C:\Users\Hamza\Desktop\trip-logger-app\trips\serializers.py changed, reloading.
+INFO 2025-03-15 23:01:23,032 autoreload Watching for file changes with StatReloader
+INFO 2025-03-15 23:01:40,911 autoreload C:\Users\Hamza\Desktop\trip-logger-app\trips\models.py changed, reloading.
+INFO 2025-03-15 23:01:42,017 autoreload Watching for file changes with StatReloader
+INFO 2025-03-15 23:08:23,733 autoreload Watching for file changes with StatReloader
+ERROR 2025-03-15 23:09:35,699 log Internal Server Error: /api/trips/
+Traceback (most recent call last):
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\mixins.py", line 46, in list
+    return Response(serializer.data)
+                    ^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\serializers.py", line 795, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\serializers.py", line 249, in data
+    self._data = self.to_representation(self.instance)
+                 ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\serializers.py", line 714, in to_representation
+    self.child.to_representation(item) for item in iterable
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\serializers.py", line 523, in to_representation
+    for field in fields:
+                 ^^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\serializers.py", line 384, in _readable_fields
+    for field in self.fields.values():
+                 ^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\serializers.py", line 372, in fields
+    for key, value in self.get_fields().items():
+                      ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\serializers.py", line 1103, in get_fields
+    field_class, field_kwargs = self.build_field(
+                                ~~~~~~~~~~~~~~~~^
+        source, info, model, depth
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\serializers.py", line 1249, in build_field
+    return self.build_unknown_field(field_name, model_class)
+           ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\serializers.py", line 1367, in build_unknown_field
+    raise ImproperlyConfigured(
+    ...<2 lines>...
+    )
+django.core.exceptions.ImproperlyConfigured: Field name `trip_date` is not valid for model `Trip` in `trips.serializers.TripSerializer`.
+ERROR 2025-03-15 23:09:36,080 log Internal Server Error: /api/trips/
+Traceback (most recent call last):
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\mixins.py", line 46, in list
+    return Response(serializer.data)
+                    ^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\serializers.py", line 795, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\serializers.py", line 249, in data
+    self._data = self.to_representation(self.instance)
+                 ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\serializers.py", line 714, in to_representation
+    self.child.to_representation(item) for item in iterable
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\serializers.py", line 523, in to_representation
+    for field in fields:
+                 ^^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\serializers.py", line 384, in _readable_fields
+    for field in self.fields.values():
+                 ^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\serializers.py", line 372, in fields
+    for key, value in self.get_fields().items():
+                      ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\serializers.py", line 1103, in get_fields
+    field_class, field_kwargs = self.build_field(
+                                ~~~~~~~~~~~~~~~~^
+        source, info, model, depth
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\serializers.py", line 1249, in build_field
+    return self.build_unknown_field(field_name, model_class)
+           ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\serializers.py", line 1367, in build_unknown_field
+    raise ImproperlyConfigured(
+    ...<2 lines>...
+    )
+django.core.exceptions.ImproperlyConfigured: Field name `trip_date` is not valid for model `Trip` in `trips.serializers.TripSerializer`.
+ERROR 2025-03-15 23:10:28,231 log Internal Server Error: /api/trips/
+Traceback (most recent call last):
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\mixins.py", line 46, in list
+    return Response(serializer.data)
+                    ^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\serializers.py", line 795, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\serializers.py", line 249, in data
+    self._data = self.to_representation(self.instance)
+                 ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\serializers.py", line 714, in to_representation
+    self.child.to_representation(item) for item in iterable
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\serializers.py", line 523, in to_representation
+    for field in fields:
+                 ^^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\serializers.py", line 384, in _readable_fields
+    for field in self.fields.values():
+                 ^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\serializers.py", line 372, in fields
+    for key, value in self.get_fields().items():
+                      ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\serializers.py", line 1103, in get_fields
+    field_class, field_kwargs = self.build_field(
+                                ~~~~~~~~~~~~~~~~^
+        source, info, model, depth
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\serializers.py", line 1249, in build_field
+    return self.build_unknown_field(field_name, model_class)
+           ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\serializers.py", line 1367, in build_unknown_field
+    raise ImproperlyConfigured(
+    ...<2 lines>...
+    )
+django.core.exceptions.ImproperlyConfigured: Field name `trip_date` is not valid for model `Trip` in `trips.serializers.TripSerializer`.
+ERROR 2025-03-15 23:10:28,430 log Internal Server Error: /api/trips/
+Traceback (most recent call last):
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\mixins.py", line 46, in list
+    return Response(serializer.data)
+                    ^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\serializers.py", line 795, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\serializers.py", line 249, in data
+    self._data = self.to_representation(self.instance)
+                 ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\serializers.py", line 714, in to_representation
+    self.child.to_representation(item) for item in iterable
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\serializers.py", line 523, in to_representation
+    for field in fields:
+                 ^^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\serializers.py", line 384, in _readable_fields
+    for field in self.fields.values():
+                 ^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\serializers.py", line 372, in fields
+    for key, value in self.get_fields().items():
+                      ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\serializers.py", line 1103, in get_fields
+    field_class, field_kwargs = self.build_field(
+                                ~~~~~~~~~~~~~~~~^
+        source, info, model, depth
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\serializers.py", line 1249, in build_field
+    return self.build_unknown_field(field_name, model_class)
+           ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\serializers.py", line 1367, in build_unknown_field
+    raise ImproperlyConfigured(
+    ...<2 lines>...
+    )
+django.core.exceptions.ImproperlyConfigured: Field name `trip_date` is not valid for model `Trip` in `trips.serializers.TripSerializer`.
+ERROR 2025-03-15 23:11:04,530 log Internal Server Error: /api/trips/
+Traceback (most recent call last):
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Hamza\Desktop\trip-logger-app\trips\views.py", line 34, in create
+    if serializer.is_valid():
+       ~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\serializers.py", line 223, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+                           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\serializers.py", line 442, in run_validation
+    value = self.to_internal_value(data)
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\serializers.py", line 495, in to_internal_value
+    for field in fields:
+                 ^^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\serializers.py", line 378, in _writable_fields
+    for field in self.fields.values():
+                 ^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\serializers.py", line 372, in fields
+    for key, value in self.get_fields().items():
+                      ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\serializers.py", line 1103, in get_fields
+    field_class, field_kwargs = self.build_field(
+                                ~~~~~~~~~~~~~~~~^
+        source, info, model, depth
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\serializers.py", line 1249, in build_field
+    return self.build_unknown_field(field_name, model_class)
+           ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\serializers.py", line 1367, in build_unknown_field
+    raise ImproperlyConfigured(
+    ...<2 lines>...
+    )
+django.core.exceptions.ImproperlyConfigured: Field name `trip_date` is not valid for model `Trip` in `trips.serializers.TripSerializer`.
+INFO 2025-03-15 23:13:13,793 autoreload C:\Users\Hamza\Desktop\trip-logger-app\trips\models.py changed, reloading.
+INFO 2025-03-15 23:13:14,752 autoreload Watching for file changes with StatReloader
+INFO 2025-03-15 23:13:36,967 autoreload Watching for file changes with StatReloader
+INFO 2025-03-15 23:14:53,525 autoreload C:\Users\Hamza\Desktop\trip-logger-app\trips\models.py changed, reloading.
+INFO 2025-03-15 23:14:54,761 autoreload Watching for file changes with StatReloader
+INFO 2025-03-15 23:15:57,748 autoreload Watching for file changes with StatReloader
+DEBUG 2025-03-15 23:16:06,515 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Eiffel+Tower%2C+Paris&format=json&limit=1
+DEBUG 2025-03-15 23:16:06,998 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Louvre+Museum%2C+Paris&format=json&limit=1
+DEBUG 2025-03-15 23:16:07,985 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Notre+Dame%2C+Paris&format=json&limit=1
+ERROR 2025-03-15 23:16:09,195 log Internal Server Error: /api/trips/
+Traceback (most recent call last):
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Hamza\Desktop\trip-logger-app\trips\views.py", line 52, in create
+    return Response(serializer.data, status=status.HTTP_201_CREATED)
+                    ^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\serializers.py", line 571, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\serializers.py", line 249, in data
+    self._data = self.to_representation(self.instance)
+                 ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\serializers.py", line 538, in to_representation
+    ret[field.field_name] = field.to_representation(attribute)
+                            ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\fields.py", line 1272, in to_representation
+    assert not isinstance(value, datetime.datetime), (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Expected a `date`, but got a `datetime`. Refusing to coerce, as this may mean losing timezone information. Use a custom read-only field and deal with timezone issues explicitly.
+INFO 2025-03-15 23:17:33,352 autoreload C:\Users\Hamza\Desktop\trip-logger-app\trips\serializers.py changed, reloading.
+INFO 2025-03-15 23:17:35,772 autoreload Watching for file changes with StatReloader
+INFO 2025-03-15 23:17:48,047 autoreload C:\Users\Hamza\Desktop\trip-logger-app\trips\models.py changed, reloading.
+INFO 2025-03-15 23:17:49,394 autoreload Watching for file changes with StatReloader
+DEBUG 2025-03-15 23:17:55,594 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Eiffel+Tower%2C+Paris&format=json&limit=1
+DEBUG 2025-03-15 23:17:56,543 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Louvre+Museum%2C+Paris&format=json&limit=1
+DEBUG 2025-03-15 23:17:57,141 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Notre+Dame%2C+Paris&format=json&limit=1
+ERROR 2025-03-15 23:17:58,863 log Internal Server Error: /api/trips/
+Traceback (most recent call last):
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Hamza\Desktop\trip-logger-app\trips\views.py", line 52, in create
+    return Response(serializer.data, status=status.HTTP_201_CREATED)
+                    ^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\serializers.py", line 571, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\serializers.py", line 249, in data
+    self._data = self.to_representation(self.instance)
+                 ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\serializers.py", line 538, in to_representation
+    ret[field.field_name] = field.to_representation(attribute)
+                            ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\fields.py", line 1272, in to_representation
+    assert not isinstance(value, datetime.datetime), (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Expected a `date`, but got a `datetime`. Refusing to coerce, as this may mean losing timezone information. Use a custom read-only field and deal with timezone issues explicitly.
+DEBUG 2025-03-15 23:19:35,522 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Eiffel+Tower%2C+Paris&format=json&limit=1
+DEBUG 2025-03-15 23:19:35,860 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Louvre+Museum%2C+Paris&format=json&limit=1
+DEBUG 2025-03-15 23:19:36,836 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Notre+Dame%2C+Paris&format=json&limit=1
+DEBUG 2025-03-15 23:21:17,629 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Eiffel+Tower%2C+Paris&format=json&limit=1
+DEBUG 2025-03-15 23:21:18,021 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Louvre+Museum%2C+Paris&format=json&limit=1
+DEBUG 2025-03-15 23:21:19,027 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Notre+Dame%2C+Paris&format=json&limit=1
+DEBUG 2025-03-15 23:27:11,939 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Eiffel+Tower%2C+Paris&format=json&limit=1
+ERROR 2025-03-15 23:27:13,123 views Error geocoding location Eiffel Tower, Paris: Service timed out
+DEBUG 2025-03-15 23:27:13,123 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Louvre+Museum%2C+Paris&format=json&limit=1
+ERROR 2025-03-15 23:27:14,212 views Error geocoding location Louvre Museum, Paris: Service timed out
+DEBUG 2025-03-15 23:27:14,213 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Notre+Dame%2C+Paris&format=json&limit=1
+ERROR 2025-03-15 23:27:15,311 views Error geocoding location Notre Dame, Paris: Service timed out
+DEBUG 2025-03-15 23:29:13,398 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Avenue+Habib+Bourguiba%2C+1000+Tunis%2C+Tunisia&format=json&limit=1
+ERROR 2025-03-15 23:29:14,663 views Error geocoding location Avenue Habib Bourguiba, 1000 Tunis, Tunisia: Service timed out
+DEBUG 2025-03-15 23:29:14,664 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=25+Rue+du+Lac%2C+1053+Tunis%2C+Tunisia&format=json&limit=1
+DEBUG 2025-03-15 23:29:15,721 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=112+Avenue+de+la+R%C3%A9publique%2C+1073+Tunis%2C+Tunisia&format=json&limit=1
+DEBUG 2025-03-15 23:44:26,820 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Avenue+Habib+Bourguiba%2C+1000+Tunis%2C+Tunisia&format=json&limit=1
+DEBUG 2025-03-15 23:44:27,421 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=25+Rue+du+Lac%2C+1053+Tunis%2C+Tunisia&format=json&limit=1
+DEBUG 2025-03-15 23:44:28,768 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=112+Avenue+de+la+R%C3%A9publique%2C+1073+Tunis%2C+Tunisia&format=json&limit=1
+ERROR 2025-03-15 23:44:29,978 views Error geocoding location 112 Avenue de la République, 1073 Tunis, Tunisia: Service timed out
+DEBUG 2025-03-15 23:46:10,376 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Eiffel+Tower%2C+Paris&format=json&limit=1
+DEBUG 2025-03-15 23:46:10,676 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Louvre+Museum%2C+Paris&format=json&limit=1
+DEBUG 2025-03-15 23:46:11,688 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Notre+Dame%2C+Paris&format=json&limit=1
+DEBUG 2025-03-15 23:46:42,790 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=112+Avenue+de+la+R%C3%A9publique%2C+1073+Tunis%2C+Tunisia&format=json&limit=1
+DEBUG 2025-03-15 23:46:43,639 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=25+Rue+du+Lac%2C+1053+Tunis%2C+Tunisia&format=json&limit=1
+ERROR 2025-03-15 23:46:44,835 views Error geocoding location 25 Rue du Lac, 1053 Tunis, Tunisia: Service timed out
+DEBUG 2025-03-15 23:46:44,837 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Avenue+Habib+Bourguiba%2C+1000+Tunis%2C+Tunisia&format=json&limit=1
+DEBUG 2025-03-16 00:10:49,068 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Eiffel+Tower%2C+Paris&format=json&limit=1
+ERROR 2025-03-16 00:10:50,238 views Error geocoding location Eiffel Tower, Paris: Service timed out
+DEBUG 2025-03-16 00:10:50,239 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Louvre+Museum%2C+Paris&format=json&limit=1
+ERROR 2025-03-16 00:10:51,305 views Error geocoding location Louvre Museum, Paris: Service timed out
+DEBUG 2025-03-16 00:10:51,305 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Notre+Dame%2C+Paris&format=json&limit=1
+ERROR 2025-03-16 00:10:52,390 views Error geocoding location Notre Dame, Paris: Service timed out
+DEBUG 2025-03-16 00:16:17,290 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Eiffel+Tower%2C+Paris&format=json&limit=1
+ERROR 2025-03-16 00:16:18,455 views Error geocoding location Eiffel Tower, Paris: Service timed out
+DEBUG 2025-03-16 00:16:18,457 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Louvre+Museum%2C+Paris&format=json&limit=1
+DEBUG 2025-03-16 00:16:19,345 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Notre+Dame%2C+Paris&format=json&limit=1
+DEBUG 2025-03-16 00:31:31,145 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Los+Angeles%2C+CA%2C+USA&format=json&limit=1
+DEBUG 2025-03-16 00:31:31,701 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=New+York%2C+NY%2C+USA&format=json&limit=1
+ERROR 2025-03-16 00:31:32,889 views Error geocoding location New York, NY, USA: Service timed out
+DEBUG 2025-03-16 00:31:32,890 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=New+York%2C+NY%2C+USA&format=json&limit=1
+DEBUG 2025-03-16 00:33:43,023 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=New+York%2C+NY%2C+USA&format=json&limit=1
+DEBUG 2025-03-16 00:33:43,345 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Los+Angeles%2C+CA%2C+USA&format=json&limit=1
+ERROR 2025-03-16 00:33:44,508 views Error geocoding location Los Angeles, CA, USA: Service timed out
+DEBUG 2025-03-16 00:33:44,510 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Los+Angeles%2C+CA%2C+USA&format=json&limit=1
+ERROR 2025-03-16 00:33:45,644 views Error geocoding location Los Angeles, CA, USA: Service timed out
+DEBUG 2025-03-16 00:40:13,087 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Los+Angeles+International+Airport+%28LAX%29%2C+1+World+Way%2C+Los+Angeles%2C+CA+90045%2C+USA&format=json&limit=1
+ERROR 2025-03-16 00:40:14,401 views Error geocoding location Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045, USA: Service timed out
+DEBUG 2025-03-16 00:40:14,402 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=john+F.+Kennedy+International+Airport+%28JFK%29%2C+Queens%2C+NY+11430%2C+USA&format=json&limit=1
+DEBUG 2025-03-16 00:40:14,705 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=john+F.+Kennedy+International+Airport+%28JFK%29%2C+Queens%2C+NY+11430%2C+USA&format=json&limit=1
+ERROR 2025-03-16 00:40:15,871 views Error geocoding location john F. Kennedy International Airport (JFK), Queens, NY 11430, USA: Service timed out
+INFO 2025-03-16 11:32:25,203 autoreload Watching for file changes with StatReloader
+DEBUG 2025-03-16 12:04:23,402 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Eiffel+Tower%2C+Paris&format=json&limit=1
+DEBUG 2025-03-16 12:04:24,294 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Louvre+Museum%2C+Paris&format=json&limit=1
+DEBUG 2025-03-16 12:04:25,292 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Notre+Dame%2C+Paris&format=json&limit=1
+DEBUG 2025-03-16 12:04:47,788 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Eiffel+Tower%2C+Paris&format=json&limit=1
+DEBUG 2025-03-16 12:04:48,038 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Louvre+Museum%2C+Paris&format=json&limit=1
+DEBUG 2025-03-16 12:04:49,020 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Notre+Dame%2C+Paris&format=json&limit=1
+DEBUG 2025-03-16 12:05:06,733 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Eiffel+Tower%2C+Paris&format=json&limit=1
+DEBUG 2025-03-16 12:05:06,954 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Louvre+Museum%2C+Paris&format=json&limit=1
+DEBUG 2025-03-16 12:05:07,965 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Notre+Dame%2C+Paris&format=json&limit=1
+DEBUG 2025-03-16 12:06:51,379 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Avenue+Habib+Bourguiba%2C+1000+Tunis%2C+Tunisia&format=json&limit=1
+DEBUG 2025-03-16 12:06:51,671 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=25+Rue+du+Lac%2C+1053+Tunis%2C+Tunisia&format=json&limit=1
+ERROR 2025-03-16 12:06:52,833 views Error geocoding location 25 Rue du Lac, 1053 Tunis, Tunisia: Service timed out
+DEBUG 2025-03-16 12:06:52,834 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=112+Avenue+de+la+R%C3%A9publique%2C+1073+Tunis%2C+Tunisia&format=json&limit=1
+ERROR 2025-03-16 12:06:53,976 views Error geocoding location 112 Avenue de la République, 1073 Tunis, Tunisia: Service timed out
+WARNING 2025-03-16 12:12:55,382 log Not Found: /api/stats/summary/
+WARNING 2025-03-16 12:12:55,394 log Not Found: /api/stats/summary/
+WARNING 2025-03-16 12:14:05,175 log Not Found: /api/stats/summary/
+WARNING 2025-03-16 12:14:05,192 log Not Found: /api/stats/summary/
+WARNING 2025-03-16 12:14:24,004 log Not Found: /api/stats/summary/
+WARNING 2025-03-16 12:14:24,015 log Not Found: /api/stats/summary/
+WARNING 2025-03-16 12:14:26,620 log Not Found: /api/stats/summary/
+WARNING 2025-03-16 12:14:26,635 log Not Found: /api/stats/summary/
+WARNING 2025-03-16 12:17:14,287 log Not Found: /api/stats/summary/
+WARNING 2025-03-16 12:17:14,298 log Not Found: /api/stats/summary/
+WARNING 2025-03-16 12:17:39,800 log Not Found: /api/stats/summary/
+WARNING 2025-03-16 12:17:39,812 log Not Found: /api/stats/summary/
+WARNING 2025-03-16 12:17:47,011 log Not Found: /api/stats/summary/
+WARNING 2025-03-16 12:17:47,022 log Not Found: /api/stats/summary/
+WARNING 2025-03-16 12:18:03,876 log Not Found: /api/stats/summary/
+WARNING 2025-03-16 12:18:03,887 log Not Found: /api/stats/summary/
+WARNING 2025-03-16 12:21:11,538 log Not Found: /api/stats/summary/
+WARNING 2025-03-16 12:21:11,604 log Not Found: /api/stats/summary/
+INFO 2025-03-16 12:24:18,205 autoreload Watching for file changes with StatReloader
+WARNING 2025-03-16 12:24:23,116 log Not Found: /api/stats/summary/
+WARNING 2025-03-16 12:24:23,127 log Not Found: /api/stats/summary/
+WARNING 2025-03-16 12:24:23,137 log Not Found: /api/stats/top-destinations/
+WARNING 2025-03-16 12:24:23,161 log Not Found: /api/stats/top-destinations/
+WARNING 2025-03-16 12:24:38,612 log Not Found: /api/stats/summary/
+WARNING 2025-03-16 12:24:38,627 log Not Found: /api/stats/summary/
+WARNING 2025-03-16 12:24:38,636 log Not Found: /api/stats/top-destinations/
+WARNING 2025-03-16 12:24:38,679 log Not Found: /api/stats/top-destinations/
+WARNING 2025-03-16 12:24:47,574 log Not Found: /api/stats/summary/
+WARNING 2025-03-16 12:24:47,590 log Not Found: /api/stats/summary/
+WARNING 2025-03-16 12:24:47,596 log Not Found: /api/stats/top-destinations/
+WARNING 2025-03-16 12:24:47,645 log Not Found: /api/stats/top-destinations/
+WARNING 2025-03-16 12:30:01,551 log Not Found: /api/stats/summary/
+WARNING 2025-03-16 12:30:01,568 log Not Found: /api/stats/summary/
+WARNING 2025-03-16 12:30:01,585 log Not Found: /api/stats/top-destinations/
+WARNING 2025-03-16 12:30:01,601 log Not Found: /api/stats/top-destinations/
+WARNING 2025-03-16 12:30:13,033 log Not Found: /api/stats/summary/
+WARNING 2025-03-16 12:30:13,045 log Not Found: /api/stats/summary/
+WARNING 2025-03-16 12:30:13,058 log Not Found: /api/stats/top-destinations/
+WARNING 2025-03-16 12:30:13,083 log Not Found: /api/stats/top-destinations/
+WARNING 2025-03-16 12:38:31,693 log Not Found: /api/stats/summary/
+WARNING 2025-03-16 12:38:31,714 log Not Found: /api/stats/summary/
+WARNING 2025-03-16 12:38:31,727 log Not Found: /api/stats/top-destinations/
+WARNING 2025-03-16 12:38:31,749 log Not Found: /api/stats/top-destinations/
+WARNING 2025-03-16 12:41:06,603 log Not Found: /api/stats/summary/
+WARNING 2025-03-16 12:41:06,620 log Not Found: /api/stats/summary/
+WARNING 2025-03-16 12:41:06,632 log Not Found: /api/stats/top-destinations/
+WARNING 2025-03-16 12:41:06,649 log Not Found: /api/stats/top-destinations/
+INFO 2025-03-16 13:31:47,158 autoreload Watching for file changes with StatReloader
+WARNING 2025-03-16 13:32:56,784 log Not Found: /api/stats/summary/
+WARNING 2025-03-16 13:32:56,798 log Not Found: /api/stats/summary/
+WARNING 2025-03-16 13:32:56,813 log Not Found: /api/stats/top-destinations/
+WARNING 2025-03-16 13:32:56,831 log Not Found: /api/stats/top-destinations/
+WARNING 2025-03-16 17:57:44,686 log Not Found: /api/stats/summary/
+WARNING 2025-03-16 17:57:44,698 log Not Found: /api/stats/summary/
+WARNING 2025-03-16 17:57:44,705 log Not Found: /api/stats/top-destinations/
+WARNING 2025-03-16 17:57:44,719 log Not Found: /api/stats/top-destinations/
+WARNING 2025-03-16 19:06:29,797 log Not Found: /api/stats/summary/
+WARNING 2025-03-16 19:06:29,816 log Not Found: /api/stats/summary/
+WARNING 2025-03-16 19:06:29,826 log Not Found: /api/stats/top-destinations/
+WARNING 2025-03-16 19:06:29,851 log Not Found: /api/stats/top-destinations/
+INFO 2025-03-17 20:03:18,247 autoreload Watching for file changes with StatReloader
+WARNING 2025-03-17 20:05:35,259 log Not Found: /api/stats/summary/
+WARNING 2025-03-17 20:05:35,271 log Not Found: /api/stats/summary/
+WARNING 2025-03-17 20:05:35,287 log Not Found: /api/stats/top-destinations/
+WARNING 2025-03-17 20:05:35,299 log Not Found: /api/stats/top-destinations/
+WARNING 2025-03-17 20:05:45,572 log Not Found: /api/stats/summary/
+WARNING 2025-03-17 20:05:45,592 log Not Found: /api/stats/summary/
+WARNING 2025-03-17 20:05:45,601 log Not Found: /api/stats/top-destinations/
+WARNING 2025-03-17 20:05:45,635 log Not Found: /api/stats/top-destinations/
+WARNING 2025-03-17 20:13:38,899 log Not Found: /api/stats/summary/
+WARNING 2025-03-17 20:13:38,910 log Not Found: /api/stats/summary/
+WARNING 2025-03-17 20:13:38,925 log Not Found: /api/stats/top-destinations/
+WARNING 2025-03-17 20:13:38,950 log Not Found: /api/stats/top-destinations/
+WARNING 2025-03-17 20:17:13,221 log Not Found: /api/stats/summary/
+WARNING 2025-03-17 20:17:13,237 log Not Found: /api/stats/summary/
+WARNING 2025-03-17 20:17:13,255 log Not Found: /api/stats/top-destinations/
+WARNING 2025-03-17 20:17:13,275 log Not Found: /api/stats/top-destinations/
+WARNING 2025-03-17 20:56:45,855 log Not Found: /api/trips/latest/
+WARNING 2025-03-17 20:56:45,903 log Not Found: /api/trips/latest/
+WARNING 2025-03-17 20:56:45,924 log Not Found: /api/trips/latest/
+INFO 2025-03-20 14:42:27,901 autoreload Watching for file changes with StatReloader
+DEBUG 2025-03-20 14:42:46,256 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Eiffel+Tower%2C+Paris&format=json&limit=1
+DEBUG 2025-03-20 14:42:46,640 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Louvre+Museum%2C+Paris&format=json&limit=1
+DEBUG 2025-03-20 14:42:47,599 nominatim Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Notre+Dame%2C+Paris&format=json&limit=1
+INFO 2025-03-20 17:32:20,554 autoreload C:\Users\Hamza\Desktop\trip-logger-app\backend\settings.py changed, reloading.
